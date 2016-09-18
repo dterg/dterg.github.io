@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            Dieter Galea
 description:      Describe your website here.
 # put your disqus here
 disqus_shortname: 
@@ -18,8 +18,6 @@ url: https://dterg.github.io
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
   - title: 'Install'
     url: '/theme-setup/'
   - title: 'Tags'
@@ -37,7 +35,7 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
+  name:           Dieter Galea
   site:           http://aronbordin.com
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
