@@ -15,6 +15,11 @@ slide or figure in a manuscript. The issue is further amplified when we have hie
 want to show inherited (mis)classifications down a tree. 
 
 <!-- more -->
+This is what a confusion matrix for a relatively large number of classes:
+
+<figure>
+	<img src="/images/confusionMatrix.jpg" alt="">
+</figure>
 
 When visualizing data, its always a matter of balance between information and simplicity. In my case, I'm interested 
 in the relative proportion(s) of misclassifications of a target class and into which classes the misclassifications 
@@ -34,7 +39,8 @@ Yes, customized pie charts. So we have the inner ellipse showing the expected ta
 predicted classes. Rows represent child nodes belonging to the same parent (column). Its relatively straightforward to 
 see where misclassifications occurred. Obviously less so when the color scale becomes limiting with a very large number 
 of classes. But even then, misclassifications at the parent nodes is still easy to see with a specific color-scale assigned 
-to the parents (tested it with up to 35 classes - works quite well).
+to the parents (tested it with up to 35 classes - works quite well. Results are part of a manuscript under review, will update this post
+with the figure once published).
 
 Here's the code to generate this (or fork it on GitHub). Requires a confusion matrix in csv as input, with target classes 
 as rows, and predicted classes as columns. Labels should be first column and first for parent classes and second column, 
