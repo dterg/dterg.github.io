@@ -15,7 +15,7 @@ slide or figure in a manuscript. The issue is further amplified when we have hie
 want to show inherited (mis)classifications down a tree. 
 
 <!-- more -->
-This is what a confusion matrix for a relatively large number of classes:
+This is what a confusion matrix for a relatively large number of classes looks like:
 
 <figure>
 	<img src="/images/confusionMatrix.jpg" alt="">
