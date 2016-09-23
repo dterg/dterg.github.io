@@ -38,7 +38,7 @@ owner:
   name:           Dieter Galea
   site:           http://dterg.github.io
   avatar:         images/avatar2.jpg
-  bio:            "Originally a biologist and chemist, now a PhD student at Imperial College London working on computational methods for biomedical data; visualizations, setting up data repositories, and fixing bugs - to name a few. On my right is Kaiser - my Siberian husky and best friend."
+  bio:            "Originally a biologist and chemist, now a PhD student at Imperial College London working on computational methods for biomedical data; analysis, visualizations, setting up data repositories, developing online tools, and mostly: fixing bugs. On my right is Kaiser - my Siberian husky and best friend."
   email:          dietergalea@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: #aron_bordin # if no twitter in this config, the twitter follow button will be removed
