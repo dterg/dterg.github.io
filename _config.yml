@@ -1,5 +1,5 @@
 title:            Dieter Galea
-description:      Describe your website here.
+description:      Blog - personal and software-related.
 # put your disqus here
 disqus_shortname: 
 reading_time:     true # if true, shows the estimated reading time for a post
@@ -8,7 +8,7 @@ logo:             images/logo.png # logo visible in the topbar
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://dterg.github.io
+url: #https://dterg.github.io
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -18,32 +18,32 @@ url: https://dterg.github.io
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Install'
-    url: '/theme-setup/'
+  - title: 'About'
+    url: '/about/'
   - title: 'Tags'
     url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+#  - title: 'Categories'
+#    url: '/categories'
+#    type: 'categories'
+#  - title: 'Favorites'
+#    url: '#'
+#    submenu:
+#      - title: 'Code Highlighter'
+#        url: '/intro/code-highlighting-post/'
+#      - title: 'Sample Post'
+#        url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
   name:           Dieter Galea
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  site:           http://dterg.github.io
+  avatar:         images/avatar2.jpg
+  bio:            "Originally a biologist and chemist, now a PhD student at Imperial College London working on computational methods for biomedical data; visualizations, setting up data repositories, and fixing bugs - to name a few. On my right is Kaiser - my Siberian husky and best friend."
+  email:          dietergalea@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  twitter: #aron_bordin # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  github: dterg
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -65,7 +65,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 locale:      en_US
 future:      true
 highlighter: rouge

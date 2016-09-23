@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: author
 title: About
 share: true
 ---
