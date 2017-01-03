@@ -14,6 +14,8 @@ We drove from Rovaniemi to Tromso; where we went whale watching and took a fligh
 
 This is some interesting information I learnt on this trip, some follow up research, and pictures.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
+
 <figure class="half">
 	<img src="/images/north1.jpg" alt="">
 	<img src="/images/north2.jpg" alt="">
@@ -61,10 +63,7 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<img src="/images/north44.jpg" alt="">
 	<img src="/images/north45.jpg" alt="">
 	<img src="/images/north46.jpg" alt="">
-	<figcaption>Images taken by myself during this trip.</figcaption>
 </figure>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
 
 ### Husky Sledding
 
@@ -86,6 +85,8 @@ Some facts about Svalbard:
 -	There are Polar bears in Svalbard (with peak breeding time in April). In fact, there’s more Polar bears than people. Because of this, outside the designated ‘safe zone’, one would need to carry a rifle.
 -	Svalbard kirke (Svalbard Church) is the world-s most northern church located at Longyearbyen in Svalbard. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5NhIRwCq428" frameborder="0" allowfullscreen></iframe>
+
 ### The Northern Lights
 
 After extensive aurora hunting (using mainly the [Aurora service website](http://www.aurora-service.eu/)), we were lucky to observe the Northern Lights (Aurora Borealis) 3 times: faintly in Svalbard (due to the weather conditions), on the flight back from Longyearbyen (Svalbard) to Tromso, and in the pitch black forests on the way back from Tromso to Rovaniemi (shown in the images and video). This spectacular phenomenon however does not only occur in the North and can also be seen from the southern hemisphere, where these are called Aurora Australis.
@@ -99,14 +100,14 @@ The energy provided by the storm along Earth’s magnetic field excites gases in
 
 <figure>
 	<img src="/images/aurora_colors.jpg" alt="">
-	<figcaption>Color of light emitted based on gas composition at a specific altitude. ([Source](http://www.webexhibits.org/causesofcolor/4D.html))</figcaption>
+	<figcaption>Color of light emitted based on gas composition at a specific altitude. [Source](http://www.webexhibits.org/causesofcolor/4D.html)</figcaption>
 </figure>
 
 ### Whale watching
 
 After a 7-hour drive (~500 km) on the Swedish-Finnish border, we went whale watching in Tromso. Since herring stay here for winter, whales hunt in the area and are thus very active in December. While we came across several Killer whales (Orcinus orca), humpback whales (Megaptera novaeangliae) are also common, with ca. 800 humpbacks estimated to live in the Norwegian seas in 2015. Here are some facts told to use by a local fisherman, whale-watching hobbyist and research collaborator:
 
-Orcinus orca
+# Orcinus orca
 -	Orcas live in families of 5-25 members, with a clear hierarchy; the oldest female (‘grandma’) being the boss;
 -	Each family have their own dialects, yet still ‘understand’ each other;
 -	There’s one ‘norwegian orca language’ with 64 dialects;
@@ -116,7 +117,7 @@ Orcinus orca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEP0sMO-nUQ" frameborder="0" allowfullscreen></iframe>
 
-Megaptera novaeangliae
+# Megaptera novaeangliae
 -	Usually eat plankton, but in Norway they eat herring by ‘stealing’ from orcas’ fish schools (directly from the carousel). Additional techniques involve the use of air bubbles to trap herring in an area. Through coordination, they simultaneously attack herring at the surface. 
 -	Their blow can be up to 4 m;
 -	The humpback tail flukes are unique and are thus used as a fingerprints to identify individuals
