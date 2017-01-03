@@ -99,17 +99,17 @@ The energy provided by the storm along Earth’s magnetic field excites gases in
 
 After a 7-hour drive (~500 km) on the Swedish-Finnish border, we went whale watching in Tromso. Since herring stay here for winter, whales hunt in the area and are thus very active in December. While we came across several Killer whales (Orcinus orca), humpback whales (Megaptera novaeangliae) are also common, with ca. 800 humpbacks estimated to live in the Norwegian seas in 2015. Here are some facts told to use by a local fisherman, whale-watching hobbyist and research collaborator:
 
-# Orcinus orca
+### Orcinus orca
 -	Orcas live in families of 5-25 members, with a clear hierarchy; the oldest female (‘grandma’) being the boss;
 -	Each family have their own dialects, yet still ‘understand’ each other;
 -	There’s one ‘norwegian orca language’ with 64 dialects;
 -	While Norwegian orcas do not ‘understand’ other orcas in the south and Americas, they do understand Icelandic orcas;
--	Male orcas can be 9 m long, weigh 9 tonns, and possess a 2 m dorsal fin. Females can have a 1 m dorsal fin, at maximum;
--	Feed day and night, and eat 2-300 kg herrings per day – one fish at a time! The coordination between themselves, as well as ‘using’ boats at the surface, they a “carousel” of herring that they trap to the sea surface. They do not feed directly from the carousel, but only eat herring that are stunned by tail slaps. 
+-	Male orcas can be 9 m long, weigh 9 tons, and possess a 2 m dorsal fin. Females can have a 1 m dorsal fin, at maximum;
+-	Feed day and night, and eat 200-300 kg herrings per day – one fish at a time! The coordination between themselves, as well as ‘using’ boats at the surface, they a “carousel” of herring that they trap to the sea surface. They do not feed directly from the carousel, but only eat herring that are stunned by tail slaps. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEP0sMO-nUQ" frameborder="0" allowfullscreen></iframe>
 
-# Megaptera novaeangliae
+### Megaptera novaeangliae
 -	Usually eat plankton, but in Norway they eat herring by ‘stealing’ from orcas’ fish schools (directly from the carousel). Additional techniques involve the use of air bubbles to trap herring in an area. Through coordination, they simultaneously attack herring at the surface. 
 -	Their blow can be up to 4 m;
 -	The humpback tail flukes are unique and are thus used as a fingerprints to identify individuals
