@@ -9,7 +9,7 @@ image:
 
 
 This December I got to experience the North, above the Arctic Circle, by taking an adventurous trip to the Finnish Lapland (Rovaniemi), Tromso and Svalbard (the Northern-most populated country in the world). Starting from Bristol, traveled to London and took a connection flight to Rovaniemi, through Helsinki. Here we mushed a husky sled, drove a snowmobile into the forest and on the frozen Kemijoki river, visited the Ranua Wildlife Park and the Snowman World Igloo Hotel, and went snowboarding.
-<!-- more -->
+
 We drove from Rovaniemi to Tromso; where we went whale watching and took a flight to stormy Longyearbyen, in Svalbard. After an aurora tour, plenty of walking in the dark and a snowstorm, we flew back to Tromso, drove to Rovaniemi, flew to Vienna (where we spent a couple of hours sightseeing), and finally headed to Malta for Christmas and New Year. 
 
 This is some interesting information I learnt on this trip, some follow up research, and pictures.
@@ -44,7 +44,7 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<img src="/images/north27.jpg" alt="">
 	<img src="/images/north28.jpg" alt="">
 	<img src="/images/north29.jpg" alt="">
-	<img src="/images/north30.tif" alt="">
+	<img src="/images/north30.jpg" alt="">
 	<img src="/images/north31.jpg" alt="">
 	<img src="/images/north32.jpg" alt="">
 	<img src="/images/north33.jpg" alt="">
@@ -83,7 +83,7 @@ Some facts about Svalbard:
 -	Temperatures only rise above 0C between June and August when there is 24 hours of daylight;
 -	Spitsbergen is the largest and only permanently populated island of the Svalbard archipelago. It is also the largest island in Norway and 36th largest island in the world.
 -	Spitsbergen is a free economic zone and demilitarized zone that was used as a whaling base in the 17th/18th century and for coal mining in the 19th century. 
--	Spitsbergen has the Svalbard Global Seed Vault; “a fail-safe seed storage facility, built to stand the test of time – and the challenge of natural or man-made disasters. […] represents the world’s largest collection of crop diversity” [CropTrust](https://www.croptrust.org/our-work/svalbard-global-seed-vault/) (although GMOs are not stored in the vault at this time) [CropTrust](https://www.croptrust.org/our-work/svalbard-global-seed-vault/faq-about-the-vault/).
+-	Spitsbergen has the Svalbard Global Seed Vault; “a fail-safe seed storage facility, built to stand the test of time – and the challenge of natural or man-made disasters. […] represents the world’s largest collection of crop diversity” ([CropTrust](https://www.croptrust.org/our-work/svalbard-global-seed-vault/)) (although GMOs are not stored in the vault at this time) ([CropTrust](https://www.croptrust.org/our-work/svalbard-global-seed-vault/faq-about-the-vault/)).
 -	There are Polar bears in Svalbard (with peak breeding time in April). In fact, there’s more Polar bears than people. Because of this, outside the designated ‘safe zone’, one would need to carry a rifle.
 -	Svalbard kirke (Svalbard Church) is the world-s most northern church located at Longyearbyen in Svalbard. 
 
@@ -93,15 +93,14 @@ After extensive aurora hunting (using mainly the [Aurora service website](http:/
 
 ‘Hunting’ and aurora predictions are based on solar storms. In the sun’s core, the 14 million degrees Celsius and high pressure causes the fusion of hydrogen atoms into helium. This nuclear fusion releases energy that goes to the surface of the sun, creating currents called convection cells. Electrical currents of charged gas (plasma) create a magnetic field at the surface that folds and stretches until it breaks. This is a solar storm and reaches Earth within 18 hours. Earth’s magnetic field deflects the storm causing the magnetic fields to couple together, creating a gas stream along the poles (this is why Aurora Borealis/Australis is best observed at the poles). The magnetic fields keep deflecting on the other side of Earth (away from the sun) and couple together until they break/fuse – nighttime aurora. 
 
-A great video from the University of Oslo explaining this phenomenon:
-{::nomarkdown}
+A great video by the University of Oslo explaining this phenomenon:
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=1DXHE4kt3Fw" frameborder="0" allowfullscreen></iframe>
-{:/nomarkdown}
 
 The energy provided by the storm along Earth’s magnetic field excites gases in our atmosphere, which on going back to ‘ground state’, emit the observed light. The color of the light depends on the gas composition, hence also (indirectly) on the altitude. Purple/blue is light emitted when nitrogen is ionized, green/yellow/faint red is the excitation of oxygen and deep red is excited nitrogen. Other colors are combinations based on relative proportions of oxygen and nitrogen (based on the altitude). 
 
-IMAGE GOES HERE
- 
+<figure>
+	<img src="/images/aurora_colors.jpg" alt="">
+</figure>
 [Source](http://www.webexhibits.org/causesofcolor/4D.html)
 
 ### Whale watching
@@ -116,9 +115,7 @@ Orcinus orca
 -	Male orcas can be 9 m long, weigh 9 tonns, and possess a 2 m dorsal fin. Females can have a 1 m dorsal fin, at maximum;
 -	Feed day and night, and eat 2-300 kg herrings per day – one fish at a time! The coordination between themselves, as well as ‘using’ boats at the surface, they a “carousel” of herring that they trap to the sea surface. They do not feed directly from the carousel, but only eat herring that are stunned by tail slaps. 
 
-{::nomarkdown}
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=pEP0sMO-nUQ" frameborder="0" allowfullscreen></iframe>
-{:/nomarkdown}
 
 
 Megaptera novaeangliae
@@ -127,8 +124,6 @@ Megaptera novaeangliae
 -	The humpback tail flukes are unique and are thus used as a fingerprints to identify individuals
 -	After 2-3 months in the Norwegian seas, they continue travelling ~16,000-18,000 km to the Caribbean. 
 
-{::nomarkdown}
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=vJvfjiCTvq4" frameborder="0" allowfullscreen></iframe>
-{:/nomarkdown}
 
 
