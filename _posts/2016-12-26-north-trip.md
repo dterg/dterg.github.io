@@ -7,9 +7,8 @@ image:
     feature: aurora.jpg
 ---
 
-
 This December I got to experience the North, above the Arctic Circle, by taking an adventurous trip to the Finnish Lapland (Rovaniemi), Tromso and Svalbard (the Northern-most populated country in the world). Starting from Bristol, traveled to London and took a connection flight to Rovaniemi, through Helsinki. Here we mushed a husky sled, drove a snowmobile into the forest and on the frozen Kemijoki river, visited the Ranua Wildlife Park and the Snowman World Igloo Hotel, and went snowboarding.
-
+<!--more-->
 We drove from Rovaniemi to Tromso; where we went whale watching and took a flight to stormy Longyearbyen, in Svalbard. After an aurora tour, plenty of walking in the dark and a snowstorm, we flew back to Tromso, drove to Rovaniemi, flew to Vienna (where we spent a couple of hours sightseeing), and finally headed to Malta for Christmas and New Year. 
 
 This is some interesting information I learnt on this trip, some follow up research, and pictures.
