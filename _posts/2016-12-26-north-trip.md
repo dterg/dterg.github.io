@@ -32,10 +32,8 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<img src="/images/north16.jpg" alt="">
 	<img src="/images/north17.jpg" alt="">
 	<img src="/images/north18.jpg" alt="">
-	<img src="/images/north19.jpg" alt="">
 	<img src="/images/north20.jpg" alt="">
 	<img src="/images/north21.jpg" alt="">
-	<img src="/images/north23.jpg" alt="">
 	<img src="/images/north24.jpg" alt="">
 	<img src="/images/north25.jpg" alt="">
 	<img src="/images/north26.jpg" alt="">
