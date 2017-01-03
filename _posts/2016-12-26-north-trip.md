@@ -43,7 +43,7 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<img src="/images/north27.jpg" alt="">
 	<img src="/images/north28.jpg" alt="">
 	<img src="/images/north29.jpg" alt="">
-	<img src="/images/north30.tif" alt="">
+	<img src="/images/north30.jpg" alt="">
 	<img src="/images/north31.jpg" alt="">
 	<img src="/images/north32.jpg" alt="">
 	<img src="/images/north33.jpg" alt="">
