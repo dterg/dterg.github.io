@@ -97,7 +97,7 @@ The energy provided by the storm along Earth’s magnetic field excites gases in
 
 ### Whale watching
 
-After a 7-hour drive (~500 km) on the Swedish-Finnish border, we went whale watching in Tromso. Since herring stay here for winter, whales hunt in the area and are thus very active in December. While we came across several Killer whales (Orcinus orca), humpback whales (Megaptera novaeangliae) are also common, with ca. 800 humpbacks estimated to live in the Norwegian seas in 2015. Here are some facts told to use by a local fisherman, whale-watching hobbyist and research collaborator:
+After a 7-hour drive (~500 km) on the Swedish-Finnish border, we went whale watching in Tromso. Since herring stay here for winter, whales hunt in the area and are thus very active in December. While we came across several Killer whales (Orcinus orca), humpback whales (Megaptera novaeangliae) are also common, with ca. 800 humpbacks estimated to live in the Norwegian seas in 2015. Here are some facts told to us by a local fisherman, whale-watching hobbyist and research collaborator:
 
 ### Orcinus orca
 -	Orcas live in families of 5-25 members, with a clear hierarchy; the oldest female (‘grandma’) being the boss;
