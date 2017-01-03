@@ -64,8 +64,7 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<figcaption>Images taken by myself during this trip.</figcaption>
 </figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
 
 ### Husky Sledding
 
@@ -94,13 +93,13 @@ After extensive aurora hunting (using mainly the [Aurora service website](http:/
 ‘Hunting’ and aurora predictions are based on solar storms. In the sun’s core, the 14 million degrees Celsius and high pressure causes the fusion of hydrogen atoms into helium. This nuclear fusion releases energy that goes to the surface of the sun, creating currents called convection cells. Electrical currents of charged gas (plasma) create a magnetic field at the surface that folds and stretches until it breaks. This is a solar storm and reaches Earth within 18 hours. Earth’s magnetic field deflects the storm causing the magnetic fields to couple together, creating a gas stream along the poles (this is why Aurora Borealis/Australis is best observed at the poles). The magnetic fields keep deflecting on the other side of Earth (away from the sun) and couple together until they break/fuse – nighttime aurora. 
 
 A great video by the University of Oslo explaining this phenomenon:
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=1DXHE4kt3Fw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1DXHE4kt3Fw" frameborder="0" allowfullscreen></iframe>
 
 The energy provided by the storm along Earth’s magnetic field excites gases in our atmosphere, which on going back to ‘ground state’, emit the observed light. The color of the light depends on the gas composition, hence also (indirectly) on the altitude. Purple/blue is light emitted when nitrogen is ionized, green/yellow/faint red is the excitation of oxygen and deep red is excited nitrogen. Other colors are combinations based on relative proportions of oxygen and nitrogen (based on the altitude). 
 
 <figure>
 	<img src="/images/aurora_colors.jpg" alt="">
-	<figcaption>Color of light emitted based on gas composition at a specific altitude.[Source](http://www.webexhibits.org/causesofcolor/4D.html)</figcaption>
+	<figcaption>Color of light emitted based on gas composition at a specific altitude. ([Source](http://www.webexhibits.org/causesofcolor/4D.html))</figcaption>
 </figure>
 
 ### Whale watching
@@ -115,8 +114,7 @@ Orcinus orca
 -	Male orcas can be 9 m long, weigh 9 tonns, and possess a 2 m dorsal fin. Females can have a 1 m dorsal fin, at maximum;
 -	Feed day and night, and eat 2-300 kg herrings per day – one fish at a time! The coordination between themselves, as well as ‘using’ boats at the surface, they a “carousel” of herring that they trap to the sea surface. They do not feed directly from the carousel, but only eat herring that are stunned by tail slaps. 
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=pEP0sMO-nUQ" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pEP0sMO-nUQ" frameborder="0" allowfullscreen></iframe>
 
 Megaptera novaeangliae
 -	Usually eat plankton, but in Norway they eat herring by ‘stealing’ from orcas’ fish schools (directly from the carousel). Additional techniques involve the use of air bubbles to trap herring in an area. Through coordination, they simultaneously attack herring at the surface. 
@@ -124,6 +122,5 @@ Megaptera novaeangliae
 -	The humpback tail flukes are unique and are thus used as a fingerprints to identify individuals
 -	After 2-3 months in the Norwegian seas, they continue travelling ~16,000-18,000 km to the Caribbean. 
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=vJvfjiCTvq4" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJvfjiCTvq4" frameborder="0" allowfullscreen></iframe>
 
