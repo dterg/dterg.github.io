@@ -64,9 +64,7 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<figcaption>Images taken by myself during this trip.</figcaption>
 </figure>
 
-{::nomarkdown}
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
-{:/nomarkdown}
 
 
 ### Husky Sledding
