@@ -100,7 +100,7 @@ The energy provided by the storm along Earth’s magnetic field excites gases in
 
 <figure>
 	<img src="/images/aurora_colors.jpg" alt="">
-	<figcaption>Color of light emitted based on gas composition at a specific altitude. ([Source](http://www.webexhibits.org/causesofcolor/4D.html))</figcaption>
+	<figcaption>Color of light emitted based on gas composition at a specific altitude.[Source](http://www.webexhibits.org/causesofcolor/4D.html)</figcaption>
 </figure>
 
 ### Whale watching
