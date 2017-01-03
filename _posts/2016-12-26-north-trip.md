@@ -4,9 +4,7 @@ title: A Trip to the North
 description: "Trip to the Finnish Lapland and Svalbard"
 tags: [travel, trip, scandinavia, finland, norway, london, bristol, malta, vienna, austria, svalbard]
 image:
-    feature: aurora.jpg
-    credit: Dieter Galea
-    creditlink: 
+    feature: north1.jpg
 ---
 
 
@@ -16,7 +14,6 @@ We drove from Rovaniemi to Tromso; where we went whale watching and took a fligh
 
 This is some interesting information I learnt on this trip, some follow up research, and pictures.
 
-{% highlight html %}
 <figure class="half">
 	<img src="/images/north1.jpg" alt="">
 	<img src="/images/north2.jpg" alt="">
@@ -66,7 +63,6 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<img src="/images/north46.jpg" alt="">
 	<figcaption>Images taken by myself during this trip.</figcaption>
 </figure>
-{% endhighlight %} 
 
 {::nomarkdown}
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
