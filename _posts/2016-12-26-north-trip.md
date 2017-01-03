@@ -4,7 +4,7 @@ title: A Trip to the North
 description: "Trip to the Finnish Lapland and Svalbard"
 tags: [travel, trip, scandinavia, finland, norway, london, bristol, malta, vienna, austria, svalbard]
 image:
-    feature: north1.jpg
+    feature: aurora.jpg
 ---
 
 
@@ -64,7 +64,7 @@ This is some interesting information I learnt on this trip, some follow up resea
 	<figcaption>Images taken by myself during this trip.</figcaption>
 </figure>
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IAvP3uUKVrQ" frameborder="0" allowfullscreen></iframe>
 
 
 ### Husky Sledding
